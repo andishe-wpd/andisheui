@@ -1,0 +1,21 @@
+{
+  "name": "andisheui",
+  "version": "1.0.0",
+  "description": "ui-kit for my personal projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui-container",
+    "ui",
+    "uikit",
+    "react"
+  ],
+  "author": "andishe abbasian",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
